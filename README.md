@@ -8,24 +8,29 @@
 Recall (полнота)- это метрика, которая, какую долю реальных положительных случаев, но также недопустим пропуск положительных точек. Также Precision (точность) важная метрика для решения данной задачи необходима, ведь она показывает какая доля объектов действительно является положительными. Метрика Visibility демонстрирует долю того, что точка видна в кадре, данная метрика необходима, так как нам важно знать не только вероятность обнаружения точки, но и её действительность на изображении. Метрика min_tracking_confidenc в данном коде будет использоваться как объектом отслеживания в компьютерном зрении, конечно, это повышает надежность, но, к сожалению, увеличивает задержку кадров. 
 
 ### Как запустить код?
-> [!IMPORTANT]
+>[!IMPORTANT]
 > 1. Скачиваем файл Value_position и data_set
 > 2. Устанавливаем все необходимые библиотеки (вот это через терминал --> pip install mediapipe opencv-python numpy pandas matplotlib)
 > 3. Запускаем файл
 > 4. В терминале выбираем формат
 
- > [!IMPORTANT] <img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
+ >[!IMPORTANT]
+><img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
 
 
-> [!IMPORTANT] 5. Если выбрали формат 1, то необходимо указать полный путь к изображению
->[!IMPORTANT] <img width="780" height="156" alt="1_2" src="https://github.com/user-attachments/assets/73ec856b-8d58-4269-a3a2-efddddb63ee8" />
+>[!IMPORTANT]
+>5. Если выбрали формат 1, то необходимо указать полный путь к изображению
+>[!IMPORTANT]
+><img width="780" height="156" alt="1_2" src="https://github.com/user-attachments/assets/73ec856b-8d58-4269-a3a2-efddddb63ee8" />
 
 
-> [!IMPORTANT] А если 2, то откроется камера (у меня почему открывается за VScode, а не поверх него) и будет это выглядеть вот так 
+>[!IMPORTANT]
+>А если 2, то откроется камера (у меня почему открывается за VScode, а не поверх него) и будет это выглядеть вот так 
 
 
 
-> [!IMPORTANT] <img width="651" height="516" alt="veb" src="https://github.com/user-attachments/assets/8f67f492-69f7-42b2-ae9d-73c64901d762" />
+> [!IMPORTANT]
+> <img width="651" height="516" alt="veb" src="https://github.com/user-attachments/assets/8f67f492-69f7-42b2-ae9d-73c64901d762" />
 
 
 
