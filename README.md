@@ -12,5 +12,7 @@ Recall (полнота)- это метрика, которая, какую до�
 > 1. Скачиваем файл Value_position и data_set
 > 2. Устанавливаем все необходимые библиотеки (вот это через терминал --> pip install mediapipe opencv-python numpy pandas matplotlib)
 > 3. Запускаем файл
-> 4. В терминале выбираем формат <img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
+> 4. В терминале выбираем формат
+
+<img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
 
