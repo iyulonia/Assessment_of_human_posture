@@ -14,8 +14,18 @@ Recall (полнота)- это метрика, которая, какую до�
 > 3. Запускаем файл
 > 4. В терминале выбираем формат
 
-> <img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
-> 5. Если выбрали формат 1, то необходимо указать полный путь к изображению
-> <img width="780" height="156" alt="1_2" src="https://github.com/user-attachments/assets/73ec856b-8d58-4269-a3a2-efddddb63ee8" />
+ > [!IMPORTANT] <img width="289" height="234" alt="1" src="https://github.com/user-attachments/assets/4016da42-f3b3-4092-b6e2-26cc0d5ef57d" />
+
+
+> [!IMPORTANT] 5. Если выбрали формат 1, то необходимо указать полный путь к изображению
+>[!IMPORTANT] <img width="780" height="156" alt="1_2" src="https://github.com/user-attachments/assets/73ec856b-8d58-4269-a3a2-efddddb63ee8" />
+
+
+> [!IMPORTANT] А если 2, то откроется камера (у меня почему открывается за VScode, а не поверх него) и будет это выглядеть вот так 
+
+
+
+> [!IMPORTANT] <img width="651" height="516" alt="veb" src="https://github.com/user-attachments/assets/8f67f492-69f7-42b2-ae9d-73c64901d762" />
+
 
 
