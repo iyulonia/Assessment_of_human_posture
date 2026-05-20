@@ -42,18 +42,18 @@ Recall (полнота)- это метрика, которая, какую до�
 Исходная фотография:
 
 
-><img width="480" height="599" alt="123" src="https://github.com/user-attachments/assets/283eb021-8f1a-4b58-a506-18c1213d3293" />
+<img width="480" height="599" alt="123" src="https://github.com/user-attachments/assets/283eb021-8f1a-4b58-a506-18c1213d3293" />
 
 
 
 
 
->Ждем результат и получаем такой итог:
+Ждем результат и получаем такой итог:
 
 
 
 
-><img width="484" height="631" alt="result1" src="https://github.com/user-attachments/assets/594fe502-7a37-4c76-b830-e9f2b6af697a" />
+<img width="484" height="631" alt="result1" src="https://github.com/user-attachments/assets/594fe502-7a37-4c76-b830-e9f2b6af697a" />
 
 
 
