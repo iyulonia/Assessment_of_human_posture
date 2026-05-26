@@ -11,7 +11,7 @@ Recall (полнота)- это метрика, которая, какую до�
 
 ### Как запустить код?
 >[!IMPORTANT]
-> 1. Скачиваем файл Value_position и data_set
+> 1. Скачиваем файл [Value_position](./Value_position.py) и data_set
 > 2. Устанавливаем все необходимые библиотеки (вот это через терминал --> pip install mediapipe opencv-python numpy pandas matplotlib)
 > 3. Запускаем файл
 > 4. В терминале выбираем формат
