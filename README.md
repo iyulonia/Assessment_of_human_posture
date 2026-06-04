@@ -15,7 +15,7 @@
 >[!CAUTION]
 >  ### Как запустить код?
 > 1. Скачиваем файл [Value_position](./Value_position.py) и [data_set](./data_set)
-> 2. Устанавливаем все необходимые библиотеки (вот это через терминал -->  ``` pip install mediapipe opencv-python numpy pandas matplotlib python main.py ``` )
+> 2. Устанавливаем все необходимые библиотеки (вот это через терминал -->  ``` pip install mediapipe opencv-python numpy pandas matplotlib ``` )
 > 3. Запускаем файл [Value_position](./Value_position.py)
 > 4. В терминале выбираем формат(1 или 2)
 > 5. Если выбрали формат 1, то необходимо указать полный путь к изображению и тип этого изображения(Пример: C:\Users\Name\Desktop\VS\practika\data_set\1.png)
